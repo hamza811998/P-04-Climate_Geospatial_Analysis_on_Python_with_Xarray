@@ -2,7 +2,7 @@
 Data Analysis, Machine Learning, Data Science
 
 ## Project Structure
-The hands on project on Climate Geospatial Analysis with Python and Xarray is divided into following tasks:\
+The hands on project on *`Climate Geospatial Analysis with Python and Xarray`* is divided into following tasks:\
 **Task 1:** Load and getting familiar with NetCDF datasets\
 **Task 2:** Select and filter data through coordinates\
 **Task 3:** Visualize multidimensional and geospatial variables\
